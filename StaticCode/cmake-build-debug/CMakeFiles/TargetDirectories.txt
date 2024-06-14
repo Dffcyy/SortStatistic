@@ -1,0 +1,3 @@
+/Users/egorandrianov/Desktop/c++/Sort/cmake-build-debug/CMakeFiles/Sort.dir
+/Users/egorandrianov/Desktop/c++/Sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/egorandrianov/Desktop/c++/Sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

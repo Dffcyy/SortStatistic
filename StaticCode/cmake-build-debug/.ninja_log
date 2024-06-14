@@ -1,0 +1,6 @@
+# ninja log v6
+2	41	1718406174656754826	build.ninja	bc4100058d0dcd7b
+4	207	1718381403995697510	CMakeFiles/Sort.dir/main.cpp.o	7fcccbbe1129a3d3
+23	58	1718406154160012655	Sort	dd13b1daaff28343
+3	23	1718395807136182722	CMakeFiles/Sort.dir/sort_test.cpp.o	fb6c05bd3007cd70
+4	23	1718406154140778988	CMakeFiles/Sort.dir/test.cpp.o	6812530c8a6e6c04
